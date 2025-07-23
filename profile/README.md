@@ -1,15 +1,12 @@
 # z3cta
 
-> Pronounced **“Zeta”**  
-> *An alias forged for offensive AI research, red teaming, and adversarial experimentation.*
-
 ---
 
 ## 🧠 Why "z3cta"?
 
 ## Handle  
 **z3cta**  
-Pronounced: `ZEK-tuh`
+Pronounced: `ZAY-tuh`
 The name “z3cta” is a stylized take on the Greek letter **Zeta (Ζ)**—a symbol often used in advanced mathematics, neural dynamics, and signal theory. It reflects our focus on the **underlying mechanics of intelligent systems**, and our mission to break them wide open.
 
 ## Doctrine  
